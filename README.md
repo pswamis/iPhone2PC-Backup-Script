@@ -41,7 +41,7 @@ The script supports the following file types:
    - Modify the `$destinationPath` as per your local machine path
    - Execute the script:
      ```powershell
-     .\verify_iphone_files.ps1
+     .\CopyAndVerifyFilesWithFolders.ps1
      ```
    - Follow the on-screen instructions.
 
