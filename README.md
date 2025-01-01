@@ -1,4 +1,4 @@
-# iPhone-Content-Backup
+# iPhone-Content-Backup-to-PC (Windows)
 
 A PowerShell script to automate the process of copying media files from an iPhone's Internal Storage to a designated folder on your PC. This script ensures all files are copied, verifies their existence, and can copy any missing files if required.
 
